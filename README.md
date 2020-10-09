@@ -4,7 +4,7 @@
 Easy
 
 ## Overview:
-This challenge is an exercise in basic network protocol analysis. The aim is to analyse the .PCAP file and find the data hidden within it. To complete the challenge simply find the names of 20 countries being transferred across the network and tell us which protocol they were hidden in. Some are much easier than others. Good luck! 
+This challenge is an exercise in basic network protocol analysis. The aim is to analyse the .PCAP file and find the data being transfered over the network. To complete the challenge simply find the names of 11 countries and tell us which protocol they were hidden in. Some are much easier than others. Good luck! 
 
 Fill out a table like below to be marked:
 
